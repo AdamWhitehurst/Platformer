@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 25951af7291f28845b72e01ca187ec43
+timeCreated: 1434740300
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Heroes_0
+    21300002: Heroes_1
+    21300004: Heroes_2
+    21300006: Heroes_3
+    21300008: Heroes_4
+    21300010: Heroes_5
+    21300012: Heroes_6
+    21300014: Heroes_7
+    21300016: Heroes_8
+    21300018: Heroes_9
+    21300020: Heroes_10
+    21300022: Heroes_11
+    21300024: Heroes_12
+    21300026: Heroes_13
+    21300028: Heroes_14
+    21300030: Heroes_15
+    21300032: Heroes_16
+    21300034: Heroes_17
+    21300036: Heroes_18
+    21300038: Heroes_19
+    21300040: Heroes_20
+    21300042: Heroes_21
+    21300044: Heroes_22
+    21300046: Heroes_23
+    21300048: Heroes_24
+    21300050: Heroes_25
+    21300052: Heroes_26
+    21300054: Heroes_27
+    21300056: Heroes_28
+    21300058: Heroes_29
+    21300060: Heroes_30
+    21300062: Heroes_31
+    21300064: Heroes_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Heroes_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 48
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 48
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 48
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 48
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 25
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 25
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 25
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 25
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 25
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 25
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 25
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 25
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Heroes_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
